@@ -4,6 +4,7 @@ import numpy as np
 
 # -----------------------------
 # App Config
+
 # -----------------------------
 st.set_page_config(page_title="GA Spray Scheduler", layout="centered")
 
